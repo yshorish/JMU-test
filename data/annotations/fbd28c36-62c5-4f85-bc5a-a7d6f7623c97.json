@@ -1,0 +1,18 @@
+{
+  "event_id": "fc24dfa6-5069-4275-975b-7f02a6c52607",
+  "source_id": "f554e59e-a2a4-4798-bcc3-40fd86b61f1c",
+  "set": "English [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "https://d9jk7wjtjpu5g.cloudfront.net/file_transcripts/associated_files/000/080/921/original/UA0017-DO-0017.srt?1749148650"
+        }
+      ],
+      "tags": [],
+      "uuid": "c68c6bc2-d8d9-4f4f-85ff-9327d4425625"
+    }
+  ]
+}

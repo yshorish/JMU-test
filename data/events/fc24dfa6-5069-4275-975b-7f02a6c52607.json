@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "f554e59e-a2a4-4798-bcc3-40fd86b61f1c": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-jmu.s3.wasabisys.com/collection_resource_files/resource_files/000/257/148/original/open-uri20250221-2577-s6d8wx.mp4?1740145071",
+      "duration": 7888.16667
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-06-09T13:51:19.630Z",
+  "created_by": "yshorish",
+  "item_type": "Video",
+  "label": "Black Universe IV: FFIV Featured Poets Reading, 2024 September 21",
+  "updated_at": "2025-06-09T13:51:19.630Z",
+  "updated_by": "yshorish"
+}
