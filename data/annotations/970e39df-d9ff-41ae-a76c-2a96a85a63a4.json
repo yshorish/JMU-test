@@ -38,7 +38,12 @@
           "text": "(Laughs)"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Audience",
+          "tag": "Laughter"
+        }
+      ],
       "uuid": "0a5dbd96-e7bb-446f-b371-3c70180749ad"
     },
     {
