@@ -4,11 +4,12 @@
   "created_by": "yshorish",
   "title": "Black Universe IV: FFIV Featured Poets Reading, 2024 September 21",
   "slug": "black-universe-iv-ffiv-featured-poets-readin",
-  "updated_at": "2025-06-09T13:51:20.270Z",
+  "updated_at": "2025-06-16T13:55:54.965Z",
   "updated_by": "yshorish",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "fc24dfa6-5069-4275-975b-7f02a6c52607"
-  }
+  },
+  "parent": "99953f49-cadf-4462-8d84-49245aa245a9"
 }
